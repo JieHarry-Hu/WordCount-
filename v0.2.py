@@ -1,5 +1,5 @@
 import sys
-# -c字符数  -s句子数  -w单词数  -l代码行  -b空白行  -m注释行
+# -c字符数  -s句子数  -w单词数
 def count():
     num=0
     sen=0
